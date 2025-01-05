@@ -1,5 +1,5 @@
 As an assignment in third year first semester we made an Octave allegro worksheet to three assets in AIA Insurance company as Policy Management System,Customer Relationship Management System,Financial Management System
-We discuss about the
+We discuss about,
 
 •What is the asset?
 
